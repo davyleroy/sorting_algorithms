@@ -26,8 +26,10 @@ Files | Description
 
 
 ## Resources
-- [Sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm)
 - [Big O notation](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation)
-- [Sorting algorithms animations](https://www.toptal.com/developers/sorting-algorithms)
+- [Sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm)
 - [15 sorting algorithms in 6 minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
-
+- [Sorting algorithms animations](https://www.toptal.com/developers/sorting-algorithms)
+## Authors :black_nib:
+- [Ineza Winny Didine](https://github.com/winnyineza/) 
+- [NKURUNZIZA Mbuto Davy](https://github.com/davyleroy/)
